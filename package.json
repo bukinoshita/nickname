@@ -1,0 +1,27 @@
+{
+  "name": "nickname",
+  "version": "0.0.0",
+  "description": "Get a list of nicknames or a random nickname",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:bukinoshita/nickname.git",
+    "type": "git"
+  },
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "namae": "^0.0.2"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "xo": "^0.17.1"
+  },
+  "xo": {
+    "space": true,
+    "semicolon": false,
+    "esnext": true
+  }
+}
