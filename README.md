@@ -1,7 +1,7 @@
 # nickname
 > Get a list of nicknames or a random nickname
 
-[![Codeship Status for bukinoshita/nickname](https://app.codeship.com/projects/cc6d6330-e013-0134-8f7a-5ecc5558b622/status?branch=master)](https://app.codeship.com/projects/205143)
+[![Codeship Status for bukinoshita/nickname](https://app.codeship.com/projects/90091c50-e040-0134-5a77-3aef95d095ec/status?branch=master)](https://app.codeship.com/projects/205196)
 [![GitHub release](https://img.shields.io/github/release/bukinoshita/nickname.svg)](https://www.npmjs.com/package/nickname)
 [![license](https://img.shields.io/github/license/bukinoshita/nickname.svg)](https://raw.githubusercontent.com/bukinoshita/nickname/master/LICENSE)
 
