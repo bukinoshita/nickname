@@ -15,10 +15,10 @@ $ npm install --save nickname
 import nickname from 'nickname'
 
 console.log(nickname.all)
-// => [nickname1, nickname2, nickname3, ...]
+// => ['amandabeach', 'austinholman', 'tylermayer', ...]
 
 console.log(nickname.random())
-// => nickname
+// => braydenbranch
 ```
 
 ## API
